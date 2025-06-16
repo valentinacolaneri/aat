@@ -1,4 +1,3 @@
-﻿// IJugador.cs
 namespace JugadorCansado
 {
     public interface IJugador
