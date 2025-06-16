@@ -17,7 +17,7 @@ public class Semaforo
         intermitente = false;
         mostrarAmarillo = true;
 
-        // Encontrar el índice de la secuencia para el color inicial
+    
         for (int i = 0; i < secuencia.Length; i++)
         {
             if (secuencia[i] == colorInicial)
