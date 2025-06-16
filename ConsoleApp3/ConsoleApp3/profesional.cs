@@ -1,4 +1,3 @@
-﻿// Profesional.cs
 namespace JugadorCansado
 {
     public class Profesional : JugadorBase
