@@ -1,4 +1,3 @@
-﻿// Amateur.cs
 namespace JugadorCansado
 {
     public class Amateur : JugadorBase
