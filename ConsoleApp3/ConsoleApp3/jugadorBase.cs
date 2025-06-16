@@ -1,4 +1,3 @@
-﻿// JugadorBase.cs
 namespace JugadorCansado
 {
     public abstract class JugadorBase : IJugador
