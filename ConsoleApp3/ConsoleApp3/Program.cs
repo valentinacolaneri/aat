@@ -1,4 +1,3 @@
-﻿// Program.cs
 using System;
 
 namespace JugadorCansado
@@ -7,16 +6,16 @@ namespace JugadorCansado
     {
         static void Main(string[] args)
         {
-            // Crear jugadores
+            
             IJugador profesional = new Profesional();
             IJugador amateur = new Amateur();
 
-            // Probar jugador profesional
+            
             ProbarJugador(profesional, "Profesional");
 
-            Console.WriteLine(); // Separador
+            Console.WriteLine(); 
 
-            // Probar jugador amateur
+            
             ProbarJugador(amateur, "Amateur");
         }
 
